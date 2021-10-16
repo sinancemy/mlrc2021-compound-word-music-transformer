@@ -1,3 +1,3 @@
-# mlrc2021-musicgan
+# mlrc2021-transformer-music
 
-ML Reproducibility Challenge 2021, [Symbolic Music Generation with Transformer-GANs](https://assets.amazon.science/36/e6/95f355a24df983dfcd2fe6b5ad2a/symbolic-music-generation-with-transformer-gans.pdf)
+ML Reproducibility Challenge 2021, [Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs](https://arxiv.org/pdf/2101.02402.pdf)
